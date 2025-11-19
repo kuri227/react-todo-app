@@ -48,15 +48,15 @@ React + TypeScript + Tailwind CSS を使い、ブラウザの LocalStorage に�
 
 ## 実際の動作
 
-| |
+| Todoの外観 |
 |---|
 | ![スクリーンショット1](docs/screenshot-1.png) |
 
-| |
+| タスク一覧画面 - 親タスクとサブタスクの表示 |
 |---|
 | ![スクリーンショット2](docs/screenshot-2.png) |
 
-| |
+| 参考リンク追加機能 - URL と説明を入力 |
 |---|
 | ![スクリーンショット3](docs/screenshot-3.png) |
 
