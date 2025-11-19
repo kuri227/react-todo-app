@@ -46,11 +46,19 @@ React + TypeScript + Tailwind CSS を使い、ブラウザの LocalStorage に�
 - 期間: 2025-10-23 〜 2025-11-18
 - 取り組み時間: 約 20 時間（設計・実装・検証・デプロイ含む）
 
-## スクリーンショット（最低3枚を添付）
+## 実際の動作
 
-- ![スクリーンショット1](docs/screenshot-1.png)
-- ![スクリーンショット2](docs/screenshot-2.png)
-- ![スクリーンショット3](docs/screenshot-3.png)
+| |
+|---|
+| ![スクリーンショット1](docs/screenshot-1.png) |
+
+| |
+|---|
+| ![スクリーンショット2](docs/screenshot-2.png) |
+
+| |
+|---|
+| ![スクリーンショット3](docs/screenshot-3.png) |
 
 
 ## 主な参照ファイル
