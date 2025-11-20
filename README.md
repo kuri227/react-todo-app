@@ -42,9 +42,6 @@ React + TypeScript + Tailwind CSS を使い、ブラウザの LocalStorage に�
 - 主要ファイル:
   - src/App.tsx, src/TodoList.tsx, src/TodoItem.tsx, src/types.ts, src/initTodos.ts
 
-## 開発期間・取り組み時間
-- 期間: 2025-10-23 〜 2025-11-18
-- 取り組み時間: 約 20 時間（設計・実装・検証・デプロイ含む）
 
 ## 実際の動作
 
@@ -73,6 +70,11 @@ React + TypeScript + Tailwind CSS を使い、ブラウザの LocalStorage に�
 ## 開発履歴
 - 2025年10月23日：プロジェクト開始
 - 2025年11月18日：主要機能の実装・デプロイ完了（想定）
+
+
+## 開発期間・取り組み時間
+- 期間: 2025-10-23 〜 2025-11-18
+- 取り組み時間: 約 20 時間（設計・実装・検証・デプロイ含む）
 
 ## ライセンス
 MIT License
